@@ -2,3 +2,4 @@ data/
 *.duckdb
 venv/
 notebooks/tmp_downloads/
+*.DS_Store
